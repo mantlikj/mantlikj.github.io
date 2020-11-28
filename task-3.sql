@@ -1,0 +1,2 @@
+INSERT INTO users VALUES (1, 'Jane'), (2, 'John'), (3, 'Dave'), (4, 'Emma'), (5, 'Robert');
+INSERT INTO todos VALUES (1, 'SetupPgAdmin', 2, false), (2, 'DownloadGit', 2, false), (3, 'SetupVsCode', 1, true), (4, 'DownloadPostgreSql', 2, false), (5, 'Create tables', 3, false), (6, 'Wake up in time', 5, true), (7, 'Wash the dishes', 5, true);
