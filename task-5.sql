@@ -1,0 +1,1 @@
+SELECT * FROM todos ORDER BY user_id=2;
